@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bc34qvadv1q6h"
-path="res://.godot/imported/Pokemon Project.png-fef29bb1f6decab6c86a4676251869e8.ctex"
+uid="uid://buf44ih4uhmpr"
+path="res://.godot/imported/index.icon.png-9b5818941cd9a6514ebe93c689b97f53.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Export/Pokemon Project.png"
-dest_files=["res://.godot/imported/Pokemon Project.png-fef29bb1f6decab6c86a4676251869e8.ctex"]
+source_file="res://Export/index.icon.png"
+dest_files=["res://.godot/imported/index.icon.png-9b5818941cd9a6514ebe93c689b97f53.ctex"]
 
 [params]
 

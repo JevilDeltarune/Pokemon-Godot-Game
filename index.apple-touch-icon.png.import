@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dkea0bbqro0wf"
-path="res://.godot/imported/Pokemon Project.icon.png-7f393d12c9ba56566e073f4348ab55cb.ctex"
+uid="uid://ba7ujpnc888gs"
+path="res://.godot/imported/index.apple-touch-icon.png-6fd0b29824c9bedecf77e0200f6ef42d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Export/Pokemon Project.icon.png"
-dest_files=["res://.godot/imported/Pokemon Project.icon.png-7f393d12c9ba56566e073f4348ab55cb.ctex"]
+source_file="res://Export/index.apple-touch-icon.png"
+dest_files=["res://.godot/imported/index.apple-touch-icon.png-6fd0b29824c9bedecf77e0200f6ef42d.ctex"]
 
 [params]
 
